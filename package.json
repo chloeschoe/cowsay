@@ -1,0 +1,14 @@
+{
+  "name": "mycoolprogram",
+  "version": "0.1.1",
+  "description": "a talking cow program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.1.9"
+  }
+}
